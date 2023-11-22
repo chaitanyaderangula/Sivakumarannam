@@ -1,6 +1,6 @@
 
 <!--
-**gopal-jogi/Rakesh Meher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sivakumarannam/Sivakumarannam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Your Name and Introduction -->
-<h1 align="center">Hi there, I'm Rakesh Meher! 👋</h1>
+<h1 align="center">Hi there, I'm Sivakumarannam! 👋</h1>
 
 I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
@@ -45,7 +45,6 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 <!-- What You're Currently Learning -->
 ## 🌱 I’m currently learning...
 - Python Full-Stack Development 🛠️
-- Game Development with Unity and C# 🎮
 - AI Tools 🤖
 
 ## 👥 I'm looking to collaborate on...
@@ -69,8 +68,8 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh953&show_icons=true&theme=radical)](https://github.com/Rakesh953)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rakesh953&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivakumarannam&show_icons=true&theme=radical)](https://github.com/Sivakumarannam)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sivakumarannam&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- Additional Information or Call to Action -->
 ## 🌟 Fun Fact
