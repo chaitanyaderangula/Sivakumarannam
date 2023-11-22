@@ -54,7 +54,7 @@ I'm a passionate Python Developer from Banglore. Welcome to my GitHub profile!
 
 <!-- Connect with Me -->
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-siva-kumar-annam-5b0368203-blue)](https://www.linkedin.com/in/siva-kumar-annam-5b0368203/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siva-kumar-annam-5b0368203)](https://www.linkedin.com/in/siva-kumar-annam-5b0368203/)
 [![Gmail](https://img.shields.io/badge/Email-ContactMe-red)](mailto:sivakumarannam143@gmail.com)
 
 
